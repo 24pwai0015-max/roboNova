@@ -1,4 +1,4 @@
-## day 8 schedule along with internship and datascience:
+## day 6 schedule along with internship and datascience:
 
 
 ## things to do in Ai 
